@@ -31,3 +31,5 @@ To run this project, you will need to add the following environment variables to
 `DB_USERNAME=YOUR-DB-USERNAME`
 
 `DB_PASSWORD=YOUR-DB-PASSWORD`
+
+### Now You Can Connect
