@@ -6,7 +6,7 @@ Enter the cpanel dashboard screen and click Remote MySql.
 
 ### Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/CihanOmur/laravel-connect-remote-database/blob/main/Cpanel.png)
 
 ### Add New Host
 
@@ -14,7 +14,7 @@ Enter your IP address to Host input. If u want connect all IP address, you can e
 
 ### Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/CihanOmur/laravel-connect-remote-database/blob/main/RemoteMySql.png)
 
 ### Environment Variables
 
